@@ -1,9 +1,15 @@
+/* The CSS code provided is styling the layout and appearance of a web page. Here is a breakdown of
+what each part of the code is doing: */
+/*Thiết lập kiểu font chữ cho toàn bộ trang web là sans-serif */
+
 html {
   font-family: sans-serif;
 }
+/*Đặt giá trị margin của thẻ body là 0px*/
 body {
   margin: 0px;
 }
+/*Thiết lập khoảng cách lề cho các tiêu đề từ h1 đến h6*/
 h1,
 h2,
 h3,

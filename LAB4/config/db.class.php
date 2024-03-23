@@ -1,3 +1,5 @@
+/* The `Db` class in PHP establishes a database connection, executes query statements, and returns
+results as an array. */
 <?php
 class Db
 {

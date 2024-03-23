@@ -1,3 +1,5 @@
+/* The provided code snippet is an HTML document structure. It includes the necessary elements to
+create a webpage. Here's a breakdown of what each part does: */
 <?php
 include_once("header.php");
 ?>

@@ -1,3 +1,5 @@
+/* This is an HTML document with embedded PHP code. The PHP code is used to create objects of classes
+`member` and `staff` and then display their information on the webpage. */
 <!DOCTYPE html>
 <html>
 

@@ -1,3 +1,5 @@
+/* The provided code snippet is an HTML document structure. It defines the basic structure of an HTML
+page with specific elements and metadata. Here's a breakdown of what each part does: */
 <!DOCTYPE html>
 <html>
 

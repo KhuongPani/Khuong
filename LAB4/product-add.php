@@ -1,3 +1,5 @@
+/* This PHP code snippet is for adding a new product to a database. Here's a breakdown of what the code
+does: */
 <?php
 require_once("entities/product.class.php");
 require_once('entities/category.class.php');

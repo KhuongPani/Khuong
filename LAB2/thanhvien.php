@@ -1,3 +1,5 @@
+/* The class `member` in the PHP code defines a structure for creating member objects with properties
+like full name, email, and member ID. */
 <?php
 require_once("hotro.php");
 

@@ -1,6 +1,10 @@
+/* This is an HTML document that contains a form for inputting student scores in Math, Physics, and
+Chemistry subjects. The form also includes a dropdown menu to select an area. When the user submits
+the form, the total points are calculated based on the input scores, and a rating is displayed based
+on the total points. Additionally, a priority point is displayed based on the selected area. */
 <!DOCTYPE html>
 <html>
-
+//*Phần này chứa các thông tin metadata của trang web như tiêu đề, mã ký tự, tác giả và liên kết tới tệp CSS*/
 <head>
     <title> STUDENT RESULTS RATING</title>
     <!-- Unicode Vietnamese -->
@@ -15,6 +19,7 @@
         <h2> CLASSIFICATION OF STUDENT RESULTS</h2>
         <!-- Form to send processing results -->
         <!-- action is the landing page, the # value is sent to the
+        
 
 current page itself.
 The method is post. -->
@@ -89,6 +94,7 @@ or not -->
         </form>
     </div>
     <!-- Display results -->
+    //*Hiển thị tổng số điểm và đánh giá dựa trên điểm số nhập vào từ biểu mẫu
     <div class="result">
         <h2>Rating results</h2>
         <div class="row">
@@ -103,6 +109,7 @@ or not -->
             </div>
         </div>
     </div>
+    //*Hiển thị điểm ưu tiên dựa trên khu vực đã chọn từ biểu mẫu
     <div class="row">
         <div class="lbltitle">
             <label>Rating</label>
