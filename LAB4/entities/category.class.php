@@ -1,3 +1,5 @@
+/* The Category class in PHP defines properties and methods for managing categories in a database,
+including saving new categories and listing existing ones. */
 <?php
 require_once("config/db.class.php");
 

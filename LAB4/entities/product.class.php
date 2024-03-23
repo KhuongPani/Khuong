@@ -1,3 +1,5 @@
+/* The above class named Product in PHP defines properties and methods for managing products, including
+saving a product to the database and listing products. */
 <?php
 require_once("config/db.class.php");
 
